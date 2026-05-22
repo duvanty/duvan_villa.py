@@ -1,2 +1,0 @@
-# duvan_villa
-inventario
