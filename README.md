@@ -1,2 +1,2 @@
-# duvan_villa.py
+# duvan_villa
 inventario
